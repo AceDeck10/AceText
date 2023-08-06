@@ -13,5 +13,7 @@ Open file and run with Netbeans.
 # What I learned
 
 i)   How to develop a GUI application in Java.
+
 ii)  Event handling for events such as button clicks.
+
 iii) How to programatically create and modify files in Java.
